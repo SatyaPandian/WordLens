@@ -44,8 +44,8 @@ A computer vision and machine learning-powered tool developed by a team of three
 
 ## ✅ Future Improvements
 
-Multi-language support
-GUI for a more intuitive experience
-Eye-piece camera integration
-Mobile app integration
-Enhanced detection of hand gestures or finger pointing
+- Multi-language support
+- GUI for a more intuitive experience
+- Eye-piece camera integration
+- Mobile app integration
+- Enhanced detection of hand gestures or finger pointing
