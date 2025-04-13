@@ -36,9 +36,9 @@ A computer vision and machine learning-powered tool developed by a team of three
 
 ## 🧑‍💻 Team
 
-- [Name 1]
-- [Name 2]
-- [Name 3]
+- Satya Pandian
+- Sudhindra Devulapalli https://github.com/sudhindra01
+- Vaibhav Vemani https://github.com/vaibhavvemani
 
 ---
 
