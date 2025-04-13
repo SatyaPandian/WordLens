@@ -42,24 +42,6 @@ A computer vision and machine learning-powered tool developed by a team of three
 
 ---
 
-## 📂 Project Structure
-
-WordLens/
-│
-├── yolo_weights/            # Pretrained YOLOv5 weights
-│
-├── Dictionary.py            # Local dictionary module (for meaning lookup)
-├── EasyOCR.py               # OCR implementation using EasyOCR
-├── FindWord.py              # Logic to detect and extract the target word
-├── PointDetection.py        # YOLO-based hand/finger detection
-├── WordDisplay.py           # Displays word and its meaning on screen
-├── main.py                  # Entry point for the application
-│
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
-
----
-
 ## ✅ Future Improvements
 
 Multi-language support
