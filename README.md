@@ -24,7 +24,7 @@ A computer vision and machine learning-powered tool developed by a team of three
 
 ---
 
-## 📸 How It Works
+## 📸 Overview
 
 1. The user points at a word in the text material (e.g., book or screen).
 2. YOLOv5 detects the pointing gesture or word region.
@@ -40,3 +40,30 @@ A computer vision and machine learning-powered tool developed by a team of three
 - Sudhindra Devulapalli https://github.com/sudhindra01
 - Vaibhav Vemani https://github.com/vaibhavvemani
 
+---
+
+## 📂 Project Structure
+
+WordLens/
+│
+├── yolo_weights/            # Pretrained YOLOv5 weights
+│
+├── Dictionary.py            # Local dictionary module (for meaning lookup)
+├── EasyOCR.py               # OCR implementation using EasyOCR
+├── FindWord.py              # Logic to detect and extract the target word
+├── PointDetection.py        # YOLO-based hand/finger detection
+├── WordDisplay.py           # Displays word and its meaning on screen
+├── main.py                  # Entry point for the application
+│
+├── requirements.txt         # Project dependencies
+└── README.md                # Project documentation
+
+---
+
+## ✅ Future Improvements
+
+Multi-language support
+GUI for a more intuitive experience
+Eye-piece camera integration
+Mobile app integration
+Enhanced detection of hand gestures or finger pointing
