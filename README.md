@@ -40,7 +40,3 @@ A computer vision and machine learning-powered tool developed by a team of three
 - Sudhindra Devulapalli https://github.com/sudhindra01
 - Vaibhav Vemani https://github.com/vaibhavvemani
 
----
-
-## 📂 Project Structure
-
